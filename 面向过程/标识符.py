@@ -1,0 +1,10 @@
+#python允许的标识符
+#英文
+#中文
+#数字
+#_
+##数字不可以在开头
+andy="安迪1"
+Andy="安迪2"
+print(Andy)
+print(andy)
