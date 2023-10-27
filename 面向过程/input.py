@@ -7,7 +7,7 @@
 
 
 user_name=input("请输入你的名字:")
-if user_name=="王海涛":
+if user_name=="张楚岚":
     user_type="ssssvip"
 else:
     print("不是SSSSSVIP，无法进入")
