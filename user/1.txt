@@ -1,0 +1,4 @@
+登录地址:https://ceshi2.weita.xyz/index.php/login
+login:aadmin@eacademy.com
+password:123456
+登录地址:https://ceshi2.weita.xyz/index.php/login
